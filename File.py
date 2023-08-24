@@ -8,5 +8,6 @@ print(b) #prints the list
 for i in b:
   print(i)
   
+a = int(input("Enter a number: ")) #geting a integer as a input
 
 
