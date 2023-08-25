@@ -10,4 +10,4 @@ for i in b:
   
 a = int(input("Enter a number: ")) #geting a integer as a input
 
-
+dict = {}
