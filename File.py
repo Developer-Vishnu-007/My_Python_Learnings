@@ -15,7 +15,10 @@ print(dict[name]) #printing by calling the key
 
 def fun(): #defining a function 
   print("its a function")
-  
+
+fun() #calling a function 
+
+
 
 
 
