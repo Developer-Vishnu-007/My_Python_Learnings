@@ -18,6 +18,9 @@ def fun(): #defining a function
 
 fun() #calling a function 
 
+#gonna create a class
+
+
 
 
 
