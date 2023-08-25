@@ -10,6 +10,8 @@ for i in b:
   
 a = int(input("Enter a number: ")) #geting a integer as a input
 
-dict = {name:vishnu}
+dict = {name:vishnu} #it is a dictionary 
+print(dict[name]) #printing by calling the key
+
 
 
