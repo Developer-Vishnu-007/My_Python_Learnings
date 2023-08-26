@@ -20,7 +20,7 @@ fun() #calling a function
 
 print("Iam still learning")
 
-a,b,c=
+a,b,c=1
 
 
 #gonna create a class
