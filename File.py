@@ -20,7 +20,7 @@ fun() #calling a function
 
 print("Iam still learning")
 
-a,b,c=1,2,3
+a,b,c=1,2,3#multi assignment
 
 print(a,b,c) 
 
