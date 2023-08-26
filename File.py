@@ -20,6 +20,8 @@ fun() #calling a function
 
 print("Iam still learning")
 
+a
+
 
 #gonna create a class
 
