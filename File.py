@@ -22,6 +22,8 @@ print("Iam still learning")
 
 a,b,c=1,2,3
 
+print(a,b,c) 
+
 
 #gonna create a class
 
