@@ -24,12 +24,14 @@ a,b,c=1,2,3#multi assignment
 
 #addition
 
-u = 10
+u = 100
 v = 10
 print(u+v) #output
 
-while u=v:
+while u>v:
   print("same")
+
+if u>v:
 
 print(a,b,c) 
 
