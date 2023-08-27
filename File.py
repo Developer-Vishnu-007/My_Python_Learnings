@@ -26,7 +26,7 @@ a,b,c=1,2,3#multi assignment
 
 u = 10
 v = 10
-print(u+v)
+print(u+v) #output
 
 print(a,b,c) 
 
