@@ -22,6 +22,12 @@ print("Iam still learning")
 
 a,b,c=1,2,3#multi assignment
 
+#addition
+
+u = 10
+v = 10
+print(u+v)
+
 print(a,b,c) 
 
 
