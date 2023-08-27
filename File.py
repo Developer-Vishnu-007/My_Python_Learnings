@@ -28,6 +28,9 @@ u = 10
 v = 10
 print(u+v) #output
 
+while u=v:
+  print("same")
+
 print(a,b,c) 
 
 
