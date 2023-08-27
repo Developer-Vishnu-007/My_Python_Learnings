@@ -34,7 +34,7 @@ while u>v:
 if u>v:
   print("U is greater")
 
-my_set
+my_set = 
 
 print(a,b,c) 
 
