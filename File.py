@@ -32,6 +32,7 @@ while u>v:
   print("same")
 
 if u>v:
+  print("U is greater")
 
 print(a,b,c) 
 
