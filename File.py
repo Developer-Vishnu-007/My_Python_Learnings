@@ -50,6 +50,8 @@ print(a,b,c)
 class people:
   name = vishnu 
 
+class test:
+
 
 
 
