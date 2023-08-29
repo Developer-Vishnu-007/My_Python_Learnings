@@ -48,6 +48,7 @@ print(a,b,c)
 #gonna create a class
 
 class people:
+  name = vishnu 
 
 
 
