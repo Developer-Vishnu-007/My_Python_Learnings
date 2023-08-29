@@ -56,12 +56,15 @@ class test:
     self.var2=var2
     
   def hello(v):
-    pr
+    print("hello")
 
 
 
 
 objects = test()
+
+object.hello()
+
 
 
 
