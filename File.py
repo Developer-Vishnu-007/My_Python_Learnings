@@ -2,7 +2,7 @@ import #imports a module or a library
 
 import pandas #pandas library
 
-import
+import numpy
 #My Learnings in python
 print("Hello World") #print displays the output in screen
 v = "It is a variable" #assigning a string to a variable
