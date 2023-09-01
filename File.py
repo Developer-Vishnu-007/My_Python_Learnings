@@ -73,7 +73,7 @@ objects = test()
 
 object.hello()
 
-#using js
+#using jso
 
 
 
