@@ -8,7 +8,7 @@ import numpy #numpy lib
 
 import matpoltlib #mat lib
 
-import js
+import jso
 
 #My Learnings in python
 print("Hello World") #print displays the output in screen
