@@ -48,6 +48,7 @@ a,b,c=1,2,3#multi assignment
 #addition
 
 u = 100
+
 v = 10
 print(u+v) #output
 
