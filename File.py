@@ -50,6 +50,7 @@ a,b,c=1,2,3#multi assignment
 u = 100
 
 v = 10
+
 print(u+v) #output
 
 while u>v:
