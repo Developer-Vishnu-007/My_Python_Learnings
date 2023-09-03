@@ -17,3 +17,5 @@ print("created a new file")
 #library
 
 #pandas
+
+#numpy
