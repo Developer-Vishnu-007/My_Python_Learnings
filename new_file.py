@@ -7,3 +7,6 @@ print("created a new file")
 #learn data science
 
 #ai
+
+#nptel
+
