@@ -13,3 +13,7 @@ print("created a new file")
 #machine learning
 
 #deep learning
+
+#library
+
+#pandas
