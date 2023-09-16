@@ -53,7 +53,7 @@ v = 10
 
 print(u+v) #output with addition operation
 
-while u>v:
+while u>v: #loop
   print("same")
 
 if u>v:
