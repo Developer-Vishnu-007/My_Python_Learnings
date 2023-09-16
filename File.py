@@ -56,7 +56,7 @@ print(u+v) #output with addition operation
 while u>v: #loop for while
   print("same")
 
-if u>v: # its 
+if u>v: # its a 
   print("U is greater")
 
 my_set = {"vishnu","thani","harshi"}
