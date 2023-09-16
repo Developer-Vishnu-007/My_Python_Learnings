@@ -51,7 +51,7 @@ u = 100
 
 v = 10
 
-print(u+v) #output with addition
+print(u+v) #output with addition operation
 
 while u>v:
   print("same")
