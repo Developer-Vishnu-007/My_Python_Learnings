@@ -26,7 +26,7 @@ b = [1,2,3,4,5] #defining a list
 
 print(b) #prints the list
 
-for i in b:
+for i in b: #loop
   print(i)
   
 a = int(input("Enter a number: ")) #geting a integer as a input
