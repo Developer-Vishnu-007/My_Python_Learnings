@@ -70,7 +70,7 @@ print(a,b,c)
 
 #gonna create a class
 
-class people: #class with
+class people: #class with people as name
   name = vishnu 
 
 class test:
