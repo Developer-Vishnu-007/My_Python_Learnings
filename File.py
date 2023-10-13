@@ -10,7 +10,7 @@ import matpoltlib#matlib
 
 import json
 
-#aboveare importing modules
+#aboveareimporting modules
 
 #My Learnings in python
 
