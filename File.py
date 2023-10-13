@@ -2,7 +2,7 @@
 
 import#importsamoduleoralibrary 
 
-import pandas#pandas library
+import pandas#pandaslibrary
 
 import numpy #numpy lib
 
