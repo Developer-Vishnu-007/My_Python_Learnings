@@ -4,7 +4,7 @@ import#importsamoduleoralibrary
 
 import pandas#pandaslibrary
 
-import numpy#numpy lib
+import numpy#numpylib
 
 import matpoltlib #mat lib
 
