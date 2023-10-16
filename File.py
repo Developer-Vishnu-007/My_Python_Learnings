@@ -10,7 +10,7 @@
 
  import #json
 
-#above are import ingmodules
+#above are importingmodules
 
 #My Learnings in python
 
