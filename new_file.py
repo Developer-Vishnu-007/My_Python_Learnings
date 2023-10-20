@@ -4,9 +4,9 @@
 
  #project make
 
-#learn data science
+ #learn data science
 
-#ai
+ #ai
 
 #nptel
 
