@@ -1,6 +1,6 @@
  #Hello world
 
- print("created a new file")
+ print("created new file")
 
  #project make
 
